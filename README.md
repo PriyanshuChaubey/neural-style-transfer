@@ -359,22 +359,12 @@ For a Linux deployment, the application can be served using Gunicorn with the ap
 
 ## 12. Screenshots and Results
 
-Add screenshots of the actual application and generated outputs here.
-
-Suggested screenshots:
-
-- Application homepage.
-- Content and style image upload interface.
-- Alpha parameter control.
-- Generated stylized image.
-- Before-and-after comparison.
-
 Example Markdown:
 
 ```markdown
-[![Application Interface](Demo_IO_Images/app-interface.png)](https://drive.google.com/file/d/1bMx5FuEVEYKTLlTf9O4xZinwZVXCJzfM/view?usp=sharing)
+[![Application Interface]](https://drive.google.com/file/d/1bMx5FuEVEYKTLlTf9O4xZinwZVXCJzfM/view?usp=sharing)
 
-[![Style Transfer Result](Demo_IO_Images/style-transfer-result.png)](https://drive.google.com/file/d/150hzqR8mko1mIZ6rRAMtzljbrzfO4aJK/view?usp=sharing)
+[![Style Transfer Result]](https://drive.google.com/file/d/150hzqR8mko1mIZ6rRAMtzljbrzfO4aJK/view?usp=sharing)
 ```
 ## 13. 🌐 Live Demo
 
