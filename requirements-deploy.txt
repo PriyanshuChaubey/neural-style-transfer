@@ -1,0 +1,3 @@
+-r requirements.txt
+# Gunicorn is intended for Linux-based hosting; do not install it for local Windows use.
+gunicorn
